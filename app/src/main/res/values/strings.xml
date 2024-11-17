@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">wanderlust</string>
+    <string name="title_activity_singapore" />
+    <string name="title_activity_paris" />
+    <string name="title_activity_bali" />
+    <string name="place_1">\n</string>
+    <string name="plan" />
+    <string name="description" />
+    <string name="place_2" />
+    <string name="place_3" />
+</resources>
